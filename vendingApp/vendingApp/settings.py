@@ -127,3 +127,7 @@ STATICFILES_DIRS = [
 # https://docs.djangoproject.com/en/4.1/ref/settings/#default-auto-field
 
 DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'
+
+# Add manually 
+RAZORPAY_KEY_ID = "rzp_test_4aNv8zZTBvY1GW"
+RAZORPAY_KEY_SECRET = "SEUP42I3QT8zzJmRQ5mawAxq"
